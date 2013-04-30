@@ -91,7 +91,7 @@ class PublicSuffixListManager
      *
      * @param  string $textFile Public Suffix List text filename
      * @return array  Associative, multidimensional array representation of the
-     * public suffx list
+     * public suffix list
      */
     public function parseListToArray($textFile)
     {

@@ -145,5 +145,4 @@ class Url
 
         return $url;
     }
-
 }

@@ -70,5 +70,4 @@ class Host
     {
         return $this->$name;
     }
-
 }

@@ -16,7 +16,7 @@ use Pdp\Uri\Url\Host;
 /**
  * Parser
  *
- * This class is reponsible for Public Suffix List based url parsing
+ * This class is responsible for Public Suffix List based url parsing
  */
 class Parser
 {
@@ -194,5 +194,4 @@ class Parser
 
         return implode('.', array_reverse($subdomainParts));
     }
-
 }
